@@ -1,0 +1,69 @@
+VANDANA CHAUDHARY
+
+Mathura, Uttar Pradesh, India | +91 6397026508 | vandanachaudhary2148@gmail.com
+linkedin.com/in/vandana-chaudhary-37b055379
+
+PROFESSIONAL OBJECTIVE
+
+Highly motivated B.Tech Computer Science student specializing in Artificial Intelligence and Machine Learning (AI & ML) at GLA University. Equipped with a strong technical foundation in cloud computing, core software development, and responsive web technologies. Proven hands-on ability to build intelligent systems and practical automation workflows. Eager to leverage technical skills, cross-functional adaptability, and structured problem-solving to contribute to high-impact engineering projects through an internship or entry-level role.
+
+EDUCATION
+
+GLA University
+B.Tech in Computer Science (Artificial Intelligence & Machine Learning) — First Year
+Mathura, UP | 2025 – 2029
+CPI: 7.1 / 10
+
+Senior Secondary School (Class XII)
+Aggregate: 77.0%
+
+Secondary School (Class X)
+Aggregate: 77.0%
+
+TECHNICAL SKILLS
+
+Cloud Computing: Microsoft Azure (Fundamentals)
+Languages: Python, C, JavaScript
+Web Development: HTML5, CSS3, Responsive Design
+Tools & DevOps: Git, GitHub, Microsoft Excel, Canva, AI Tooling & Prompt Optimization
+Soft Skills: Collaborative Teamwork, Clear Technical Communication, Rapid Adaptability, Problem Solving
+
+CERTIFICATIONS & TRAINING
+
+Microsoft Certified: Azure Fundamentals (AZ-900)
+Issued by: Microsoft
+Verification Authority: Certiport
+Verification ID: nTpG-Dw8X
+
+Professional Training Certification in Web Development
+Issued by: Acmegrade (In association with IIT Delhi Rendezvous & Startup India)
+Credential No: AGC26020364
+
+TECHNICAL PROJECTS
+
+AI Resume Analyzer
+Technologies: Python, NLP Core Logic, AI Frameworks
+
+• Engineered an intelligent software application to parse, evaluate, and systematically critique applicant resumes based on specific job specifications.
+• Implemented algorithmic keyword-matching and precise skill gap analysis to offer customized feedback and alignment percentages.
+• Designed features providing users with strategic improvement recommendations, enhancing overall match optimization.
+
+Personal Portfolio Website
+Technologies: HTML5, CSS3, JavaScript
+
+• Designed, built, and launched a highly responsive personal portfolio website to showcase project updates, credentials, and code repositories.
+• Optimized cross-browser assets and fluid grid systems to ensure seamless multi-device, mobile-first design compatibility.
+
+Python Automation Scripts & Utilities
+Technology: Python
+
+• Developed a modular set of utility tools, including a fully functioning calculation engine and automated operating system pipeline tasks.
+• Streamlined manual daily workflows by writing lightweight automation scripts to increase productivity and reduce repetitive tasks.
+
+ACHIEVEMENTS & EXTRACURRICULAR ACTIVITIES
+
+Hackathon Contributor
+• Actively competed in collaborative hackathons, iterating software solutions and presenting technical prototypes under accelerated timelines.
+
+Continuous Skill Iteration
+• Regularly building independent micro-projects to master advanced concepts in Artificial Intelligence, Deep Learning prompts, and modern full-stack web architectures.

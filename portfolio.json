@@ -1,0 +1,92 @@
+{
+    "name": "VANDANA CHAUDHARY",
+    "title": "B.Tech Computer Science Student (Artificial Intelligence & Machine Learning)",
+    "about": "Highly motivated B.Tech Computer Science student specializing in Artificial Intelligence and Machine Learning (AI & ML) at GLA University. Equipped with a strong technical foundation in cloud computing, core software development, and responsive web technologies. Proven hands-on ability to build intelligent systems and practical automation workflows. Eager to leverage technical skills, cross-functional adaptability, and structured problem-solving to contribute to high-impact engineering projects through an internship or entry-level role.",
+    "skills": [
+        "Microsoft Azure (Fundamentals)",
+        "Python",
+        "C",
+        "JavaScript",
+        "HTML5",
+        "CSS3",
+        "Responsive Design",
+        "Git",
+        "GitHub",
+        "Microsoft Excel",
+        "Canva",
+        "AI Tooling & Prompt Optimization",
+        "Collaborative Teamwork",
+        "Clear Technical Communication",
+        "Rapid Adaptability",
+        "Problem Solving"
+    ],
+    "education": [
+        {
+            "institution": "GLA University",
+            "degree": "B.Tech in Computer Science (Artificial Intelligence & Machine Learning) — First Year",
+            "location": "Mathura, UP",
+            "duration": "2025 – 2029",
+            "gpa": "CPI: 7.1 / 10"
+        },
+        {
+            "institution": "Senior Secondary School (Class XII)",
+            "degree": "",
+            "location": "",
+            "duration": "",
+            "gpa": "Aggregate: 77.0%"
+        },
+        {
+            "institution": "Secondary School (Class X)",
+            "degree": "",
+            "location": "",
+            "duration": "",
+            "gpa": "Aggregate: 77.0%"
+        }
+    ],
+    "experience": [],
+    "projects": [
+        {
+            "title": "AI Resume Analyzer",
+            "technologies": [
+                "Python",
+                "NLP Core Logic",
+                "AI Frameworks"
+            ],
+            "description": "Engineered an intelligent software application to parse, evaluate, and systematically critique applicant resumes based on specific job specifications. Implemented algorithmic keyword-matching and precise skill gap analysis to offer customized feedback and alignment percentages. Designed features providing users with strategic improvement recommendations, enhancing overall match optimization."
+        },
+        {
+            "title": "Personal Portfolio Website",
+            "technologies": [
+                "HTML5",
+                "CSS3",
+                "JavaScript"
+            ],
+            "description": "Designed, built, and launched a highly responsive personal portfolio website to showcase project updates, credentials, and code repositories. Optimized cross-browser assets and fluid grid systems to ensure seamless multi-device, mobile-first design compatibility."
+        },
+        {
+            "title": "Python Automation Scripts & Utilities",
+            "technologies": [
+                "Python"
+            ],
+            "description": "Developed a modular set of utility tools, including a fully functioning calculation engine and automated operating system pipeline tasks. Streamlined manual daily workflows by writing lightweight automation scripts to increase productivity and reduce repetitive tasks."
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Microsoft Certified: Azure Fundamentals (AZ-900)",
+            "issuer": "Microsoft",
+            "verification_id": "nTpG-Dw8X"
+        },
+        {
+            "name": "Professional Training Certification in Web Development",
+            "issuer": "Acmegrade (In association with IIT Delhi Rendezvous & Startup India)",
+            "verification_id": "AGC26020364"
+        }
+    ],
+    "contact": {
+        "email": "vandanachaudhary2148@gmail.com",
+        "phone": "+91 6397026508",
+        "github": "",
+        "linkedin": "linkedin.com/in/vandana-chaudhary-37b055379"
+    }
+}

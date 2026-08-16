@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>{{ title }} — ResumeAI</title>
+
+    <link
+        rel="stylesheet"
+        href="{{ url_for('static', filename='style.css') }}"
+    >
+
+</head>
+
+<body class="home-page">
+
+    <div class="background-grid"></div>
+
+    <div class="glow glow-one"></div>
+
+    <main class="error-container">
+
+        <div class="error-icon">
+            !
+        </div>
+
+        <div class="error-code">
+            PROCESSING ERROR
+        </div>
+
+        <h1>
+            {{ title }}
+        </h1>
+
+        <p>
+            {{ message }}
+        </p>
+
+        <a
+            href="/"
+            class="back-button"
+        >
+            ← TRY AGAIN
+        </a>
+
+    </main>
+
+</body>
+
+</html>
