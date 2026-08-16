@@ -14,7 +14,9 @@ load_dotenv()
 
 app = Flask(__name__)
 
-RESUME_FILE = "resume.txt"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+RESUME_FILE = os.path.join(BASE_DIR, "resume.txt")
 JSON_FILE = "portfolio.json"
 
 
@@ -99,13 +101,8 @@ def generate():
 
     try:
 
-        with open(
-            RESUME_FILE,
-            "r",
-            encoding="utf-8"
-        ) as file:
-
-            resume_text = file.read()
+        with open(RESUME_FILE, "r", encoding="utf-8") as f:
+            resume_text = f.read()
 
     except OSError:
 
